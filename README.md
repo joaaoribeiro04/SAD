@@ -1,4 +1,4 @@
-# Projeto 01 - Análise de Dados com Pentaho Data Integration
+# Projeto 01 - Análise de Dados com Pentaho Data Integration - SAD
 
 ## 📚 Descrição
 
