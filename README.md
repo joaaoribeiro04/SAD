@@ -2,7 +2,7 @@
 
 ## 📚 Descrição
 
-Este projeto foi desenvolvido no âmbito da unidade curricular de **Sistemas de Suporte à Decisão** e tem como objetivo a realização de transformações e análises sobre dados utilizando a ferramenta **Pentaho Data Integration (PDI)**, também conhecida como **Kettle**.
+Este projeto foi desenvolvido no âmbito da unidade curricular de **Sistemas de Apoio à Decisão** e tem como objetivo a realização de transformações e análises sobre dados utilizando a ferramenta **Pentaho Data Integration (PDI)**, também conhecida como **Kettle**.
 
 As transformações implementadas permitem explorar diferentes dimensões dos dados, como o número de voos por dia, durante o fim de semana, e o número de aviões disponíveis.
 
