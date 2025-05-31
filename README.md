@@ -19,3 +19,22 @@ As transformações implementadas permitem explorar diferentes dimensões dos da
 ├── voos_por_dia.ktr             # Transformação para voos por dia
 ├── numero_avioes.ktr            # Transformação para contagem de aviões
 └── DSS_P01-G04.pdf              # Relatório do projeto (documentação)
+
+
+# Projeto 02 - Análise de Dados com Power BI
+
+## 📚 Descrição
+
+Este projeto foi desenvolvido como parte do curso de **Sistemas de Apoio à Decisão**, com foco na análise de dados utilizando **Power BI**. O objetivo principal é criar relatórios interativos e dashboards para melhor visualização e interpretação dos dados.
+
+## 🛠️ Ferramentas Utilizadas
+
+- [Microsoft Power BI](https://powerbi.microsoft.com/)
+- Ficheiro `.pbix` com o relatório completo
+
+## 📁 Estrutura do Projeto
+
+```bash
+.
+├── tp_sad.pbix                  # Relatório interativo em Power BI
+└── DSS_P02_G04.pdf              # Relatório do projeto (documentação)
