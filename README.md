@@ -20,6 +20,7 @@ As transformações implementadas permitem explorar diferentes dimensões dos da
 ├── numero_avioes.ktr            # Transformação para contagem de aviões
 └── DSS_P01-G04.pdf              # Relatório do projeto (documentação)
 
+```
 
 # Projeto 02 - Análise de Dados com Power BI
 
